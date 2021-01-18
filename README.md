@@ -1,1 +1,1 @@
-# Covid_19_Project
+# Machine_Learning_Projects
